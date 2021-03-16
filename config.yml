@@ -17,7 +17,7 @@ params:
   disqusShortname: null
   timezoneString: America/Caracas
   logo: /images/clearstatus.svg
-  description_header: Informacion de estatus y problemas para sitios de <a
+  description_header: Informacion de estatus y problemas para Sistemas de <a
     class='text-grey-darkest' title='Inmuebles Las Mercedes'
     href='https://inmuebleslasmercedes.com'>Inmuebles Las Mercedes</a><br />
     Suscribete al Feed <a class='text-grey-darkest' href='%s' >RSS</a><br />para
