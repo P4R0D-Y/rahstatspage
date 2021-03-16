@@ -10,9 +10,10 @@ params:
     - name: Sitio Principal
       description: Sitio Principal Inmuebles Las Mercedes
       link: https://inmuebleslasmercedes.com
-    - name: Helpdesk
+    - name: "Sitio ID: 238"
       description: Our company customer support site
       link: https://support.example.com/
+      group: null
   dateFormat: "Enero 2, 2006 a las 3:04 PM "
   disqusShortname: null
   timezoneString: "America/Caracas "
@@ -25,6 +26,7 @@ params:
   copyrightHolder: Inmuebles Las Mercedes.
   eventsPerPage: 10
   iconType: image/png
-  groups: []
+  groups:
+    - Paginas
   icon: /images/clearstatus.png
   description_footer: Inmuebles Las Mercedes
