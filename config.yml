@@ -17,12 +17,11 @@ params:
   disqusShortname: null
   timezoneString: America/Caracas
   logo: /images/clearstatus.svg
-  description_header: Information about <a class='text-grey-darkest' title='Visit
-    example.com' href='https://www.example.com/'>example</a> systems
-    operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
-    page on Twitter' href='https://www.twitter.com/example'>on Twitter</a> or
-    subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
-    alerted of new events.
+  description_header: Informacion de estatus y problemas para sitios de <a
+    class='text-grey-darkest' title='Inmuebles Las Mercedes'
+    href='https://inmuebleslasmercedes.com'>Inmuebles Las Mercedes</a><br />
+    Suscribete al Feed <a class='text-grey-darkest' href='%s' >RSS</a><br />para
+    recibir alertas de nuevos eventos.
   copyrightHolder: Inmuebles Las Mercedes.
   eventsPerPage: 10
   iconType: image/png
