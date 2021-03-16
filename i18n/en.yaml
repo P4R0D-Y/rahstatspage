@@ -1,0 +1,99 @@
+############################################################
+## English language file
+############################################################
+
+- id: languageCode
+  translation: en
+- id: languageName
+  translation: Español
+- id: languageNameShort
+  translation: ENG
+
+- id: autoRefreshNotice
+  translation: Se actualizará en&nbsp;<span id="js-cls-reload-countdown">{{ .secondsLeft }}</span>&nbsp;segundos
+- id: autoRefreshTitle
+  translation: Haga clic para actualizar la página
+
+- id: rss
+  translation: Suscribirse con rss
+
+# Summary status message
+- id: scheduled
+  translation: Planificado
+
+- id: isDown
+  translation: Incidencia en curso...
+- id: isDisrupted
+  translation: Sistemas afectados...
+- id: isMonitoring
+  translation: Sistemas monitoreados...
+- id: isMaintenance
+  translation: Algunos sistemas en mantenimiento...
+- id: isOk
+  translation: Todos los sistemas operativos.
+
+# Components list status
+- id: disrupted
+  translation: Afectado
+- id: down
+  translation: Interrumpido
+- id: ok
+  translation: Operativo
+- id: monitoring
+  translation: Monitoreado
+- id: maintenance
+  translation: Mantenimiento
+
+# Events
+- id: incidentHistory
+  translation: Historial
+
+- id: resolved
+  translation: Resuelto
+- id: inUnderAMinute
+  translation: menos de 1 min
+
+- id: noEventsTitle
+  translation: No hay eventos que reportar.
+- id: noEventsDesc
+  translation: Esta página de estado no ha registrado ningún incidente hasta el momento!
+
+- id: prev
+  translation: Anterior
+- id: next
+  translation: Siguiente
+
+##
+## OTHER
+##
+
+- id: goBack
+  translation: Volver a
+- id: backToTop
+  translation: Volver Arriba
+- id: backToList
+  translation: Regresar a la lista de Eventos
+
+- id: notFound
+  translation: No pudimos encontrar esta página.
+- id: notFoundText
+  translation: Es posible que hayamos movido esta página a otra dirección o la hayamos eliminado. Lo sentimos por el problema!
+
+- id: willBe
+  translation: será
+- id: willBePlural
+  translation: seran
+- id: was
+  translation: ha sido
+- id: were
+  translation: han sido
+- id: is
+  translation: es
+- id: are
+  translation: estan
+
+# This string will be displayed after each time displayed
+# Set it for instance to " UTC" to indicate UTC times
+# or a specific time zone, ie " America/New_York"
+#- id: timezoneString
+#  translation: ""
