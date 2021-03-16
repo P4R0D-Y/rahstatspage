@@ -6,7 +6,7 @@
 title: ClearStatus systems status page
 
 # Language config
-languageCode: es
+languageCode: en
 
 ############################################################
 ## More default config. in /config/_default/config.yml
