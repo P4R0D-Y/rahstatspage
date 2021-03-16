@@ -25,7 +25,6 @@ params:
   copyrightHolder: Inmuebles Las Mercedes.
   eventsPerPage: 10
   iconType: image/png
-  groups:
-    - Paginas
+  groups: []
   icon: /images/clearstatus.png
   description_footer: Inmuebles Las Mercedes
