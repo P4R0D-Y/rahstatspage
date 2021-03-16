@@ -21,7 +21,7 @@ params:
   dateFormat: "Enero 2, 2006 a las 3:04 PM "
   disqusShortname: null
   timezoneString: "America/Caracas "
-  logo: /images/clearstatus.svg
+  logo: /images/logora.png
   description_header: Informacion de estatus y problemas para Sistemas de <a
     class='text-grey-darkest' title='Inmuebles Las Mercedes'
     href='https://inmuebleslasmercedes.com'>Inmuebles Las Mercedes</a><br />
