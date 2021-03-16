@@ -14,6 +14,10 @@ params:
       description: "ID: 238"
       link: https://madelenistamboulie.inmuebleslasmercedes.com
       group: Paginas
+    - name: "Sitio ID: 248"
+      group: Paginas
+      description: "ID: 248"
+      link: https://rudyrod.inmuebleslasmercedes.com
   dateFormat: "Enero 2, 2006 a las 3:04 PM "
   disqusShortname: null
   timezoneString: "America/Caracas "
