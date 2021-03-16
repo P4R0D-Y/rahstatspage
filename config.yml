@@ -6,7 +6,7 @@ params:
   meta_description: Esta página de estado proporciona información actualizada
     sobre el funcionamiento normal de nuestros sistemas, las incidencias que
     puedan ocurrir y su resolución.
-  sistemas:
+  systems:
     - name: Sitio Principal
       description: Sitio Principal Inmuebles Las Mercedes
       link: https://inmuebleslasmercedes.com
