@@ -2,7 +2,7 @@ title: Estatus - Inmuebles Las Mercedes
 baseURL: ""
 languageCode: en
 params:
-  shortDateFormat: 15:04 — Enero 2
+  shortDateFormat: "15:04 — Enero 2 "
   meta_description: Esta página de estado proporciona información actualizada
     sobre el funcionamiento normal de nuestros sistemas, las incidencias que
     puedan ocurrir y su resolución.
@@ -13,9 +13,9 @@ params:
     - name: Helpdesk
       description: Our company customer support site
       link: https://support.example.com/
-  dateFormat: Enero 2, 2006 a las 3:04 PM
+  dateFormat: "Enero 2, 2006 a las 3:04 PM "
   disqusShortname: null
-  timezoneString: America/Caracas
+  timezoneString: "America/Caracas "
   logo: /images/clearstatus.svg
   description_header: Informacion de estatus y problemas para Sistemas de <a
     class='text-grey-darkest' title='Inmuebles Las Mercedes'
