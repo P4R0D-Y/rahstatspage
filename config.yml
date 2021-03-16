@@ -20,7 +20,7 @@ params:
   description_header: Informacion de estatus y problemas para Sistemas de <a
     class='text-grey-darkest' title='Inmuebles Las Mercedes'
     href='https://inmuebleslasmercedes.com'>Inmuebles Las Mercedes</a><br />
-    Suscribete al Feed <a class='text-grey-darkest' href='%s' >RSS</a>para
+    Suscribete al Feed <a class='text-grey-darkest' href='%s' >RSS</a> para
     recibir alertas de nuevos eventos.
   copyrightHolder: Inmuebles Las Mercedes.
   eventsPerPage: 10
