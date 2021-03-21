@@ -18,6 +18,10 @@ params:
       group: Paginas
       description: "ID: 248"
       link: https://rudyrod.inmuebleslasmercedes.com
+    - name: "Sitio ID: 298"
+      group: Paginas
+      description: "ID: 298"
+      link: https://inmueblesenventafd.com/
   dateFormat: "Enero 2, 2006 a las 3:04 PM "
   disqusShortname: null
   timezoneString: "America/Caracas "
