@@ -16,4 +16,4 @@ affected:
 twitterFeed: ""
 enableComments: false
 ---
-Nuestros sistemas pueden experimentar un rendimiento menor mientras se realiza la actualización de propiedades del 22-03-21. Se espera que este evento se extienda hasta el final del día.
+Nuestros sistemas pueden experimentar un rendimiento menor mientras se realiza la actualización de propiedades del 25-03-21. Se espera que este evento finalice el dia de hoy.
