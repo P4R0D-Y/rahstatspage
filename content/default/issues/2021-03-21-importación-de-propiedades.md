@@ -2,7 +2,7 @@
 section: issue
 title: Importación de Propiedades
 date: 2021-03-21T07:36:29.126Z
-status: in_progress
+status: resolved
 pinned: belowheader
 current_severity: maintenance
 max_severity: maintenance
@@ -16,4 +16,4 @@ affected:
 twitterFeed: ""
 enableComments: false
 ---
-Nuestros sistemas pueden experimentar un rendimiento menor mientras se realiza la actualización de propiedades del 25-03-21. Se espera que este evento finalice el dia de hoy.
+Importación de propiedades Completada
