@@ -7,7 +7,7 @@ pinned: belowheader
 current_severity: maintenance
 max_severity: maintenance
 duration: ""
-resolved_on: ""
+resolved_on: 2021-03-26T09:54:39.740Z
 affected:
   - "Sitio ID: 238"
   - Sitio Principal
