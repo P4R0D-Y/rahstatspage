@@ -38,6 +38,10 @@ params:
       group: Paginas
       description: "ID: 209"
       link: https://encontrandohogar.com
+    - name: "Sitio ID: 500"
+      group: Paginas
+      description: "ID: 500"
+      link: https://inmuebleaqui.com
   dateFormat: "Enero 2, 2006 a las 3:04 PM "
   disqusShortname: null
   timezoneString: "America/Caracas "
