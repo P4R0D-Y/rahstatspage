@@ -2,7 +2,7 @@
 section: issue
 title: Mejora de formas de Busqueda y Arreglos
 date: 2021-05-21T17:30:13.469Z
-status: in_progress
+status: resolved
 pinned: belowheader
 current_severity: down
 max_severity: maintenance
