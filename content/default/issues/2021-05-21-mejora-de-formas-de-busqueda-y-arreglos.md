@@ -22,4 +22,4 @@ affected:
 twitterFeed: ""
 enableComments: false
 ---
-Se están realizando distintas actualizaciones a las formas de búsquedas y a los sistemas en general de las paginas. Este evento finalizara el día de hoy.
+Se están realizando distintas actualizaciones a las formas de búsquedas y a los sistemas en general de las paginas. Este evento fue resuelto.
